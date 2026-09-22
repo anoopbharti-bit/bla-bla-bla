@@ -24,8 +24,7 @@ st.set_page_config(
 
 st.title("⛰️ Uttarakhand Landslide Prediction")
 st.write(
-    "Ek jagah ke environmental features daalo, model batayega us jagah "
-    "landslide hone ka risk kitna hai."
+    "put the features of a particular point , and it will predict the landslide"
 )
 
 # ---------- Model load karo ----------
